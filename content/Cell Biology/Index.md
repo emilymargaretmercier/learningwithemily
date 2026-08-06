@@ -1,8 +1,8 @@
 # Cell Biology
 
-## Foundations
+## [[1. Foundations of Cell Biology]]
 
-- [[Cell Theory]]
-- [[History of Cell Biology]]
-- [[Emergence and Evolution of Cells]]
+- [[1.1 Evolution of Cells on Earth]]
+- [[1.2 History of Cell Biology]]
+- [[1.3 Differences Between Cell Types]]
 - 

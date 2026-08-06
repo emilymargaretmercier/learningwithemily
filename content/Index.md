@@ -1,9 +1,12 @@
 # Emily's Biology Knowledge Base
 
-Welcome! This website is a growing collection of evidence-based notes and original scientific diagrams.
+This website is an ever-evolving collection of evidence-based notes and original scientific diagrams.
 
 ## Topics
 
+- [[Physics]]
+- [[Chemistry]]
+- [[Organic Chemistry]]
+- [[Biochemistry]]
 - [[Cell Biology]]
 - [[Microbiology]]
-- [[Biochemistry]]
